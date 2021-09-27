@@ -61,10 +61,7 @@
 		1FE56B72270209C800B62337 /* SortingHatObjC */ = {
 			isa = PBXGroup;
 			children = (
-				1FE56B73270209C800B62337 /* AppDelegate.h */,
-				1FE56B74270209C800B62337 /* AppDelegate.m */,
-				1FE56B76270209C800B62337 /* SceneDelegate.h */,
-				1FE56B77270209C800B62337 /* SceneDelegate.m */,
+				1FE56B8C270209D800B62337 /* Resources */,
 				1FE56B79270209C800B62337 /* ViewController.h */,
 				1FE56B7A270209C800B62337 /* ViewController.m */,
 				1FE56B7C270209C800B62337 /* Main.storyboard */,
@@ -74,6 +71,17 @@
 				1FE56B85270209C800B62337 /* main.m */,
 			);
 			path = SortingHatObjC;
+			sourceTree = "<group>";
+		};
+		1FE56B8C270209D800B62337 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1FE56B73270209C800B62337 /* AppDelegate.h */,
+				1FE56B74270209C800B62337 /* AppDelegate.m */,
+				1FE56B76270209C800B62337 /* SceneDelegate.h */,
+				1FE56B77270209C800B62337 /* SceneDelegate.m */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
